@@ -2,7 +2,7 @@ title: Coming Soon
 description: Wait and see...
 baseurl: ""
 url: "https://lukejconnelly.github.io"
-logo: "_assets/image.png"
+logo: "./_assets/image.png"
 showdownloads: false
 
 remote_theme: pages-themes/minimal@v0.2.0
