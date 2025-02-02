@@ -1,10 +1,13 @@
-title: Coming Soon
-description: Wait and see...
+title: "Coming Soon"
+description: "Wait and see..."
 baseurl: ""
 url: "https://lukejconnelly.github.io"
-logo: "./_assets/image.png"
-showdownloads: false
+logo: "/_assets/image.png" # Ensure the correct path to your image
+show_downloads: false # Corrected the key name for consistency
 
-remote_theme: pages-themes/minimal@v0.2.0
+remote_theme: "pages-themes/minimal@v0.2.0"
 plugins:
   - jekyll-remote-theme
+
+github:
+  is_user_page: false
