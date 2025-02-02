@@ -1,9 +1,9 @@
-title: "Coming Soon"
-description: "Wait and see..."
+title: "Aarhus GAA"
+description: "We are a Gaelic Football team in the heart of Denmark. Come join us for some fun, sport and socialising!"
 baseurl: ""
 url: "https://lukejconnelly.github.io"
-logo: "/_assets/image.png" # Ensure the correct path to your image
-show_downloads: false # Corrected the key name for consistency
+logo: "/_assets/logo.jpg"
+show_downloads: false
 
 remote_theme: "pages-themes/minimal@v0.2.0"
 plugins:
